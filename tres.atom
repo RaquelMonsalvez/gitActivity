@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title>Crear un Feed Atom</title>
+    <link href="https://www.ejemplo.com/como-crear-un-feed-atom" rel="alternate" />
+    <id>https://www.ejemplo.com/como-crear-un-feed-atom</id>
+    <updated>2023-12-02T12:00:00Z</updated>
+    <author>
+        <name>Raquel</name>
+    </author>
+    <entry>
+        <title>Entrada 1</title>
+        <link href="https://www.ejemplo.com/entrada-1" rel="alternate" />
+        <id>https://www.ejemplo.com/entrada-1</id>
+        <updated>2023-12-02T12:00:00Z</updated>
+        <author>
+            <name>Raquel</name>
+        </author>
+        <summary>Descubre los pasos para crear un feed Atom y compartir tu contenido en línea</summary>
+    </entry>
+</feed>
